@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment2">
+
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.example.listr.home.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/niceFragment"
+        android:name="com.example.listr.nice.NiceFragment"
+        android:label="NiceFragment" />
+    <fragment
+        android:id="@+id/naughtyFragment"
+        android:name="com.example.listr.nice.NaughtyFragment"
+        android:label="NaughtyFragment" />
+</navigation>

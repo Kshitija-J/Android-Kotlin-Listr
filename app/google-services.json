@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703711890062",
+    "project_id": "rule-418322",
+    "storage_bucket": "rule-418322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703711890062:android:b4123e6f03dd82c3bad7df",
+        "android_client_info": {
+          "package_name": "com.example.listr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVTwXlHpoFu1xIEuspGrnA1W8m2-U8C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
